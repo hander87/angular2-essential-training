@@ -1,4 +1,4 @@
-export class mediaItemService {
+export class MediaItemService {
 
   get() {
     return this.mediaItems;
